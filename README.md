@@ -6,7 +6,7 @@ Drag MP4 files onto the window (or use the button) → instantly get perfect `.m
 
 Created because Resolve Studio on Linux has **no AAC decoder** (patent licensing thing). Every phone/camera/OBS/web MP4 fails silently on audio. This fixes it permanently.
 
-![Screenshot](screenshot.png) <!-- replace with your screenshot when you upload the repo -->
+![Screenshot](screenshot.png)
 
 ## Features
 
