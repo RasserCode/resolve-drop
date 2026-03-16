@@ -29,6 +29,6 @@ Created because Resolve Studio on Linux has **no AAC decoder** (patent licensing
 ## Build & Install (one-time)
 
 ```bash
-git clone https://github.com/yourusername/resolve-drop.git
+git clone https://github.com/RasserCode/resolve-drop.git
 cd resolve-drop
 gcc -Wall -O2 resolve-drop.c -o resolve-drop $(pkg-config --cflags --libs gtk4)
