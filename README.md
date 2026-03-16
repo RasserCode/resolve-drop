@@ -19,6 +19,9 @@ Created because Resolve Studio on Linux has **no AAC decoder** (patent licensing
 - Auto-scrolls the log
 - Works on X11 and Wayland
 
+## Why Not Use Handbrake?
+Handbrake is great for transcoding/compression but overkill here. Resolve-drop does one specific thing (fast remux + PCM audio swap for Resolve Linux) quick and easy.
+
 ## Requirements
 
 - Arch Linux / any distro with:
